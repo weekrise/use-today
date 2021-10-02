@@ -35,15 +35,15 @@
   },
   "name": "use-today",
   "author": "Tobias Herber",
-  "module": "dist/.esm.js",
+  "module": "dist/use-today.esm.js",
   "size-limit": [
     {
-      "path": "dist/.cjs.production.min.js",
-      "limit": "10 KB"
+      "path": "dist/use-today.cjs.production.min.js",
+      "limit": "1 KB"
     },
     {
-      "path": "dist/.esm.js",
-      "limit": "10 KB"
+      "path": "dist/use-today.esm.js",
+      "limit": "1 KB"
     }
   ],
   "devDependencies": {
